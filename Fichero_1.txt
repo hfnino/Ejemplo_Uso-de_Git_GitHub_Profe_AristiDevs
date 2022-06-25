@@ -1,3 +1,4 @@
 Este es el contenido del Fichero_1.txt y tiene las siguientes mejoras =>
 
-Mejora 1 => xxxxxxxxxxxxxxxxxxxxxxx cambios realizados por colaborador 2
+Mejora 1 => xxxxxxxxxxxxxxxxxxxxxxx cambios realizados por colaborador 1 y 2
+
